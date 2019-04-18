@@ -1,0 +1,13 @@
+body {
+    background-image: url("http://www.wallfizz.com/art-design/objet-et-machine/3244-oeuf-a-fouet-WallFizz.jpg");
+    height: 100vh;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
