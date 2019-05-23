@@ -1,12 +1,3 @@
-Voici un code en C :
-
-    int main()
-    {
-        printf("Hello world!\n");
-        return 0;
-    }
-
-
 # Omelette
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
