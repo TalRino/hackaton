@@ -1,3 +1,10 @@
+* Une puce
+* Une autre puce
+    * Une sous-puce
+    * Une autre sous-puce
+* Et encore une autre puce !
+
+
 # Omelette
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
