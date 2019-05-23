@@ -1,8 +1,10 @@
-* Une puce
-* Une autre puce
-    * Une sous-puce
-    * Une autre sous-puce
-* Et encore une autre puce !
+Voici un code en C :
+
+    int main()
+    {
+        printf("Hello world!\n");
+        return 0;
+    }
 
 
 # Omelette
